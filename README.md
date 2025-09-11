@@ -45,6 +45,16 @@ Deep dive into sophisticated agent systems:
 - [**Haystack**](./frameworks/haystack/) - End-to-end NLP framework with agents
 - [**Composio**](./frameworks/composio/) - Tool integration platform for agents
 
+### AI Tools Guides
+- [**Lovable.dev**](./tools-guides/lovable-guide.md) - Full-stack app generation that actually works
+- [**Google Nano Banana**](./tools-guides/nano-banana-guide.md) - Image editing AI that's stupidly fast
+- [**n8n**](./tools-guides/n8n-guide.md) - Workflow automation that doesn't suck
+- [**Eleven Labs**](./tools-guides/eleven-labs-guide.md) - Voice cloning and text-to-speech mastery
+- [**Character.AI**](./tools-guides/character-ai-guide.md) - Conversational AI that feels human
+- [**Hugging Face**](./tools-guides/huggingface-guide.md) - The GitHub of AI models
+- [**Perplexity**](./tools-guides/perplexity-guide.md) - Search that actually understands context
+- [**bolt.new**](./tools-guides/bolt-new-guide.md) - Instant development environments with AI coding
+
 ### Development Tools
 - [**Agent Development Tools**](./tools/development.md) - IDEs, debuggers, and testing tools
 - [**Monitoring & Observability**](./tools/monitoring.md) - Track agent performance
