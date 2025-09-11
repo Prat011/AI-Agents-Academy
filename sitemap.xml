@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Fundamentals -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/fundamentals/what-are-ai-agents</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/fundamentals/quick-start</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/fundamentals/agent-architecture</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Frameworks -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/frameworks/langchain/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/frameworks/crewai/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/frameworks/autogen/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/frameworks/haystack/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/frameworks/composio/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/frameworks/overview</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Tutorials -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/tutorials/first-agent</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/tutorials/customer-support-agent</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/tutorials/research-assistant</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/tutorials/data-analysis-agent</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/tutorials/tool-integration</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Advanced Topics -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/advanced/multi-agent-systems</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/advanced/memory-systems</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/advanced/reasoning-patterns</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/advanced/custom-frameworks</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Best Practices -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/best-practices/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/best-practices/design-principles</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/best-practices/testing</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/best-practices/error-handling</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/best-practices/performance</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/best-practices/deployment</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/best-practices/monitoring</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/best-practices/security</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/best-practices/cost-optimization</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Production -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/production/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Use Cases -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/use-cases/customer-service</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/use-cases/sales-automation</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/use-cases/content-creation</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/use-cases/devops-agents</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Resources -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/resources/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/resources/books</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/resources/courses</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/resources/communities</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Patterns -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/patterns/react</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/patterns/chain-of-thought</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/patterns/tool-use</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Research -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/research/foundation-papers</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/research/latest-research</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Contributing -->
+  <url>
+    <loc>https://Prat011.github.io/AI-Agents-Academy/CONTRIBUTING</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

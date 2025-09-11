@@ -1,0 +1,128 @@
+# GitHub Pages Configuration for AI Agents Academy
+
+# Site settings
+title: "AI Agents Academy"
+description: "A comprehensive resource collection for learning, building, and mastering AI agents"
+url: "https://Prat011.github.io"
+baseurl: "/AI-Agents-Academy"
+
+# Repository info
+repository: "Prat011/AI-Agents-Academy"
+
+# Author information
+author:
+  name: "Prathit"
+  email: "your-email@example.com"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'syntax'
+
+# Plugin settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO settings
+lang: en_US
+twitter:
+  username: your_twitter_handle
+  card: summary_large_image
+
+# Social links
+social:
+  name: AI Agents Academy
+  links:
+    - https://github.com/your-username/AI-Agents-Academy
+
+# Navigation
+header_pages:
+  - fundamentals/README.md
+  - frameworks/README.md
+  - tutorials/README.md
+  - advanced/README.md
+  - best-practices/README.md
+  - resources/README.md
+
+# Collections
+collections:
+  fundamentals:
+    output: true
+    permalink: /:collection/:name/
+  frameworks:
+    output: true
+    permalink: /:collection/:name/
+  tutorials:
+    output: true
+    permalink: /:collection/:name/
+  advanced:
+    output: true
+    permalink: /:collection/:name/
+  best-practices:
+    output: true
+    permalink: /:collection/:name/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .git/
+  - .gitignore
+  - LICENSE
+
+# Include files
+include:
+  - _pages
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "AI Agents Academy"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "fundamentals"
+    values:
+      layout: "page"
+      category: "Fundamentals"
+  - scope:
+      path: "frameworks"
+    values:
+      layout: "page"
+      category: "Frameworks"
+  - scope:
+      path: "tutorials"
+    values:
+      layout: "page"
+      category: "Tutorials"
+
+# Site search
+search_enabled: true
+
+# Footer
+footer_content: "Copyright © 2025 AI Agents Academy. Distributed under the MIT License."
+
+# Google Analytics (replace with your tracking ID)
+google_analytics: G-XXXXXXXXXX
